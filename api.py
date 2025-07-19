@@ -7,7 +7,6 @@ import requests
 import time
 import json
 from types import SimpleNamespace
-
 server = "http://localost/api/v22/xGon"
 
 currentTime = time.time()
