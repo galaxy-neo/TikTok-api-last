@@ -2,7 +2,6 @@
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @Neo_Galaxy
 
-  
 import requests
 import time
 import json
